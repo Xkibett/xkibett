@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there, i'm a web developer ready to work with anyone.
 
 <!--
 **Xkibett/xkibett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
